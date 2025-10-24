@@ -4,7 +4,7 @@ Computer people struggle to make things work together. We don't like work, so we
 Conda is one of those compartimentalization solutions. Instead of breaking things apart by installing python, R, and packages versions that hate each other, conda is smart (most of the time), and looks for compatible versions to get. It also lets you create different environments so you can keep enemies apart, while having 'up to date' packages.
 
 ## <p align='center'> Installation </p>
-Install miniconda. It's way lighter and faster. You might think using GUIs don't hurt anyone. I will find you, and hurt you.
+Install miniconda. It's way lighter and faster. You might think using GUIs doesn't hurt anyone. I will find you, and hurt you.
 
 To install conda simply **READ THE DOCUMENTATION**: [miniconda docs](https://www.anaconda.com/docs/getting-started/miniconda/install#macos-linux-installation). If nothing's changed you should just run a `wget` command to download a script to run.
 
