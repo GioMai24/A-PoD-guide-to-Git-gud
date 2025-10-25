@@ -10,5 +10,9 @@ Ideally this repo should contain hints to deal with some software we use as Phys
 
 This little [git.md](https://github.com/GioMai24/A-PoD-guide-to-Gitting-good/blob/main/git.md) file contains absolutely not everything you want to know about git. **READ THE DOCS**.
 
+[conda.md](https://github.com/GioMai24/A-PoD-guide-to-Git-gud/blob/main/conda.md) will possibly help you with some conda handling. To actually become a snake charmer **READ THE DOCS**.
+
 ---
 If something doesn't work, try to actually do it the right way.
+
+I may have made reading the docs a meme, but trust me, reading the docs actually helps you a lot.
