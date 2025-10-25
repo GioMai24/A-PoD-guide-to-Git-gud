@@ -25,7 +25,7 @@ I think I'll just vomit useful commands, but you know **DOCUMENTATION** exists:
 - `conda deactivate`: exit your active env.
 - `conda list -n [ENV NAME] [PACKAGE]`: list all the installed packages in the selected env containing [PACKAGE] in their names. If no [PACKAGE] is provided, all the installed packages are listed.
 - `conda remove -n [ENV NAME] --all`: delete your environment. You can also use `conda remove` to remove specific packages from an env.
-- `conda clean -a`: removes tarballs and unused packages. This might save you a lot of space, so do not skip this after removing an env.
+- `conda clean -a`: remove tarballs and unused packages. This might save you a lot of space, so do not skip this after removing an env.
 
 ## <p align='center'> Share your env </p>
 Sometimes you have to work with other people. People are desguhsting. Nonetheless you might want to share the same environment to avoid blaming the code for your poor work. To do so just **READ THE DOCUMENTATION** that will tell you to `conda export -n [ENV NAME] > [NAME].yaml`. Beware the last line holding the path, or 'prefix', to the environment creation. People should change that before creating the env.
