@@ -43,4 +43,4 @@ I think all R libraries are named in a `r-[LIBRARY]` fashion[^2]. R itself is ca
 When you try to install or use them, it is possible they will complain about missing dependencies on your system. They possibly are not conda stuff, but actual libraries to install in your Linux system[^3]. Just install them, write their name down somewhere to `sudo apt-get purge` the sh!t out of them when you'll get rid of R.
 [^3]: If you're using Windows or MacOS you're stupid, and I hate you.
 
-E.G.: `conda create -n argh -c conda-forge r-base r-tidyverse jupyter irkernel`.
+E.G.: `conda create -n argh -c conda-forge r-base r-tidyverse jupyter r-irkernel`.
