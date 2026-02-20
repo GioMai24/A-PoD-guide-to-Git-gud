@@ -1,7 +1,7 @@
 # <p align='center'> README </p>
 If this is the first thing you are reading, good there is still hope. When dealing with a new software if there's a file screaming README at you, it is a good idea to listen to it.
 
-The second thing you want to do is **READING THE DOCUMENTATION**. It might come in the form of `man`, or `info` if you're dealing with a Command Line Interface. You may be so lucky as to have online tutorials and docs (oh, wait... GIT HAS THEM), READ THEM. There is no escape to reading stuff.
+The second thing you want to do is **READ THE DOCUMENTATION**. It might come in the form of `man`, or `info` if you're dealing with a Command Line Interface. You may be so lucky as to have online tutorials and docs (oh, wait... GIT HAS THEM), READ THEM. There is no escape to reading stuff.
 
 If you need help with a particular command, you can usually find it in **THE DOCUMENTATION**, but if it is a small thing, and you are using a CLI like a good honest goblin, then you can kindly ask your trusted local terminal with something like `[COMMAND] -h`.
 
