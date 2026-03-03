@@ -35,10 +35,9 @@ To create an env from a file you can use `conda create -f [FILENAME]`. Simple as
 ---
 
 ## <p align='center'> Why is there no R? </p>
-There is, you haven't **READ ENOUGH DOCUMENTATION**. Since I'm way too nice with you, I'll also help you with it. You'll need R in the second semester with ASPA.
+There is, you haven't **READ ENOUGH [DOCUMENTATION](https://www.anaconda.com/docs/getting-started/working-with-conda/packages/using-r-language)**. Since I'm way too nice with you, I'll also help you with it. You'll need R in the second semester with ASPA.
 
-I think all R libraries are named in a `r-[LIBRARY]` fashion[^2]. R itself is called `r-base`.
-[^2]: I used only a few libraries, so TeCHniCaLLy I haven't checked every single one.
+All R libraries are named in a `r-[LIBRARY]` fashion. R itself is called `r-base`.
 
 When you try to install or use them, it is possible they will complain about missing dependencies on your system. They possibly are not conda stuff, but actual libraries to install in your Linux system[^3]. Just install them, write their name down somewhere to `sudo apt-get purge` the sh!t out of them when you'll get rid of R.
 [^3]: If you're using Windows or MacOS you're stupid, and I hate you.
